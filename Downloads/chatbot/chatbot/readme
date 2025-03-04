@@ -1,0 +1,10 @@
+gemini_api_key=AIzaSyDfSvQXOtHa0FAlkzyYVrqvql79510y1tM
+langsmith_api_key=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
+
+
+can run these to set langsmith_api_key
+
+set LANGSMITH_TRACING=true
+set LANGSMITH_ENDPOINT=https://api.smith.langchain.com
+set LANGSMITH_API_KEY=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
+set LANGSMITH_PROJECT=chat
